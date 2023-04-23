@@ -1,8 +1,12 @@
-# XHOST-PRO 0.9.4 public release
+# XHOST-ULTRA 0.9.8 Public Release
 
 > This is a WIP document. More detailed documentation will come in the future
 
-A multi service HOST for PS4 jailbreak
+
+# Improvements
+
+- GoldHen 2.3
+- Uncluttered / improved english
 
 # Features
 
@@ -53,7 +57,7 @@ A multi service HOST for PS4 jailbreak
 - Connect to AP
 
   ```sh
-  [SSID] xhost-pro
+  [SSID] xhost-ultra
   [PASS] 12345678
   ```
 
@@ -66,13 +70,13 @@ A multi service HOST for PS4 jailbreak
 - Configure USB Delay
 
   ```sh
-  Settings-> XHOST-PRO Setup-> System-> USB mount delay
+  Settings-> XHOST-ULTRA Setup-> System-> USB mount delay
   ```
 
 - Configure WiFi if needed
 
   ```sh
-  Settings->XHOST-PRO Setup->Network Setup
+  Settings->XHOST-ULTRA Setup->Network Setup
   ```
 
 - You are done! Navigate to main host page
@@ -87,7 +91,7 @@ A multi service HOST for PS4 jailbreak
 - Limit number of connections to 1
 
 ```sh
-user: xhost-pro
+user: xhost-ultra
 pass: 12345678
 ```
 
