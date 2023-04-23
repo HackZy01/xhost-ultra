@@ -23,7 +23,6 @@
 ## Compatible Boards
 
 - ESP-S2 Family of boards (4mb boards seem)
-- ESP8266
 
 ## Roadmap
 
